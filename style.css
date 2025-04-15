@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+img {
+    margin-right: 100px;
+    cursor: pointer;
+    border: none;
+}
+
+.logo-time:hover {
+    transform: rotate(-5deg)
+}
+
+.link {
+    margin-top: 00px;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-bottom: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 250px;
+    height: 42px;
+    font-size: 25px;
+    cursor: pointer;
+    text-decoration: underline;
+    color: rgb(74, 73, 73);
+}
+
+.business {
+    display: inline-block;
+    margin-right: 80px;
+    margin-left: 320px;
+    
+}
+
+h1 {
+    width: 368px;
+    height: 160px;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 80px;
+    color: #343643;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+p {
+    width: 500px;
+    height: 144px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 50px;
+    margin-bottom: 30px;
+    text-align: justify;
+    color: rgb(74, 73, 73);
+   
+}
+
+.predio {
+    margin-left: 100px;
+    margin-right: 80px;
+    cursor: pointer;
+    width: 700px;
+    height: 700px;
+    display: inline-block;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.etica {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 300px 100px 200px 100px;
+    height: 100px;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+    border: none;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.list {
+    width: 500px;
+    height: 144px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 50px;
+    margin-right: 5px;
+    text-align: center;
+    padding-left: 20px;
+    list-style: none;
+    color: rgb(74, 73, 73);
+}
+
+.mission {
+    color: black;
+    border: 2px none black;
+    padding: 10px;
+    margin: 10px;
+    height: 250px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    background: #f0ecec;
+}
+
+.mission:hover {
+    box-shadow: 10px 10px 20px 20px rgba(182, 145, 145, 0.5);
+}
+
+.vision {
+    color: black;
+    border: 2px none black;
+    padding: 10px;
+    margin: 10px;
+    height: 250px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    background: #f0ecec;
+}
+
+.vision:hover {
+    box-shadow: 10px 10px 20px 20px rgba(182, 145, 145, 0.5);
+}
+
+.value {
+    color: black;
+    border: 2px none black;
+    padding: 10px;
+    margin: 10px;
+    height: 300px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    background: #f0ecec;
+}
+
+.value:hover {
+    box-shadow: 10px 10px 20px 20px rgba(182, 145, 145, 0.5);
+}
