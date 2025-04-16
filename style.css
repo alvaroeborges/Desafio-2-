@@ -9,6 +9,8 @@ img {
     margin-right: 100px;
     cursor: pointer;
     border: none;
+    width: 250px;
+    height: 200px;
 }
 
 .logo-time:hover {
@@ -39,8 +41,7 @@ a {
 .business {
     display: inline-block;
     margin-right: 80px;
-    margin-left: 320px;
-    
+    margin-left: 320px;    
 }
 
 h1 {
